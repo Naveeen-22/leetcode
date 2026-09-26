@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Naveeen-22/leetcode/tree/master/0002-add-two-numbers) |
 | [0096-unique-binary-search-trees](https://github.com/Naveeen-22/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
@@ -205,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Naveeen-22/leetcode/tree/master/1051-height-checker) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Naveeen-22/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Naveeen-22/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
