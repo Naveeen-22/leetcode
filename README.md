@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Naveeen-22/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Naveeen-22/leetcode/tree/master/0283-move-zeroes) |
 ## DP on Trees
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Naveeen-22/leetcode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/Naveeen-22/leetcode/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
