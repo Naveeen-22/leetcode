@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Naveeen-22/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Naveeen-22/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0051-n-queens](https://github.com/Naveeen-22/leetcode/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Naveeen-22/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Naveeen-22/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Naveeen-22/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Naveeen-22/leetcode/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/Naveeen-22/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Lifting
 |  |
@@ -284,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Naveeen-22/leetcode/tree/master/0509-fibonacci-number) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Naveeen-22/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
