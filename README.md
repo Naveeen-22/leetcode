@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Naveeen-22/leetcode/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Naveeen-22/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Naveeen-22/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Naveeen-22/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Naveeen-22/leetcode/tree/master/0724-find-pivot-index) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Naveeen-22/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1051-height-checker](https://github.com/Naveeen-22/leetcode/tree/master/1051-height-checker) |
