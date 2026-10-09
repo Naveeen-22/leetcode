@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Naveeen-22/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Naveeen-22/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Naveeen-22/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/Naveeen-22/leetcode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Naveeen-22/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Naveeen-22/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Naveeen-22/leetcode/tree/master/0733-flood-fill) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Naveeen-22/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Naveeen-22/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Naveeen-22/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/Naveeen-22/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Naveeen-22/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Naveeen-22/leetcode/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/Naveeen-22/leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Naveeen-22/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Naveeen-22/leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Naveeen-22/leetcode/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/Naveeen-22/leetcode/tree/master/0542-01-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Naveeen-22/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Naveeen-22/leetcode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Naveeen-22/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/Naveeen-22/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Naveeen-22/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Naveeen-22/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Naveeen-22/leetcode/tree/master/0733-flood-fill) |
