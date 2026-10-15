@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Naveeen-22/leetcode/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/Naveeen-22/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Naveeen-22/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Naveeen-22/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Naveeen-22/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Naveeen-22/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Naveeen-22/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Naveeen-22/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Naveeen-22/leetcode/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/Naveeen-22/leetcode/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Naveeen-22/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/Naveeen-22/leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search Tree
