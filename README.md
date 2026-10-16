@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Naveeen-22/leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Naveeen-22/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Naveeen-22/leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Naveeen-22/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Naveeen-22/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Naveeen-22/leetcode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Naveeen-22/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Naveeen-22/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Naveeen-22/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Naveeen-22/leetcode/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/Naveeen-22/leetcode/tree/master/0414-third-maximum-number) |
 | [0721-accounts-merge](https://github.com/Naveeen-22/leetcode/tree/master/0721-accounts-merge) |
 | [0922-sort-array-by-parity-ii](https://github.com/Naveeen-22/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Naveeen-22/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
