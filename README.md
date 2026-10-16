@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Naveeen-22/leetcode/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Naveeen-22/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/Naveeen-22/leetcode/tree/master/0509-fibonacci-number) |
+| [2235-add-two-integers](https://github.com/Naveeen-22/leetcode/tree/master/2235-add-two-integers) |
 ## Binary Search Tree
 |  |
 | ------- |
