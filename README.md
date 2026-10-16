@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Naveeen-22/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Naveeen-22/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Naveeen-22/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Naveeen-22/leetcode/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Naveeen-22/leetcode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Naveeen-22/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0721-accounts-merge](https://github.com/Naveeen-22/leetcode/tree/master/0721-accounts-merge) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Naveeen-22/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Naveeen-22/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Naveeen-22/leetcode/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/Naveeen-22/leetcode/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/Naveeen-22/leetcode/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Naveeen-22/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Naveeen-22/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Naveeen-22/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Naveeen-22/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Naveeen-22/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0496-next-greater-element-i](https://github.com/Naveeen-22/leetcode/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Naveeen-22/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Naveeen-22/leetcode/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Naveeen-22/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
