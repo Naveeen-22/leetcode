@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Naveeen-22/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Naveeen-22/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Naveeen-22/leetcode/tree/master/0414-third-maximum-number) |
+| [0456-132-pattern](https://github.com/Naveeen-22/leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Naveeen-22/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Naveeen-22/leetcode/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Naveeen-22/leetcode/tree/master/0542-01-matrix) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Naveeen-22/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Naveeen-22/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Naveeen-22/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0456-132-pattern](https://github.com/Naveeen-22/leetcode/tree/master/0456-132-pattern) |
 | [1631-path-with-minimum-effort](https://github.com/Naveeen-22/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/Naveeen-22/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Naveeen-22/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Naveeen-22/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Naveeen-22/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0456-132-pattern](https://github.com/Naveeen-22/leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Naveeen-22/leetcode/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Naveeen-22/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Naveeen-22/leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Naveeen-22/leetcode/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Naveeen-22/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
@@ -560,4 +564,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Naveeen-22/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Naveeen-22/leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
