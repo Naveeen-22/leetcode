@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Naveeen-22/leetcode/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Naveeen-22/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/Naveeen-22/leetcode/tree/master/2235-add-two-integers) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Naveeen-22/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Naveeen-22/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Naveeen-22/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Naveeen-22/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Naveeen-22/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -551,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Naveeen-22/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Naveeen-22/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
