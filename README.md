@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Naveeen-22/leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Naveeen-22/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Naveeen-22/leetcode/tree/master/0283-move-zeroes) |
+| [0403-frog-jump](https://github.com/Naveeen-22/leetcode/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/Naveeen-22/leetcode/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/Naveeen-22/leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Naveeen-22/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naveeen-22/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Naveeen-22/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Naveeen-22/leetcode/tree/master/0198-house-robber) |
+| [0403-frog-jump](https://github.com/Naveeen-22/leetcode/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/Naveeen-22/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Naveeen-22/leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Naveeen-22/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
