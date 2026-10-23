@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naveeen-22/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Naveeen-22/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Naveeen-22/leetcode/tree/master/0130-surrounded-regions) |
+| [0189-rotate-array](https://github.com/Naveeen-22/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Naveeen-22/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Naveeen-22/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Naveeen-22/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Naveeen-22/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Naveeen-22/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Naveeen-22/leetcode/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Naveeen-22/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Naveeen-22/leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Naveeen-22/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/Naveeen-22/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Naveeen-22/leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Naveeen-22/leetcode/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Naveeen-22/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/Naveeen-22/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Naveeen-22/leetcode/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Naveeen-22/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/Naveeen-22/leetcode/tree/master/2235-add-two-integers) |
