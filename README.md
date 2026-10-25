@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Naveeen-22/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Naveeen-22/leetcode/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/Naveeen-22/leetcode/tree/master/0827-making-a-large-island) |
+| [0877-stone-game](https://github.com/Naveeen-22/leetcode/tree/master/0877-stone-game) |
 | [0922-sort-array-by-parity-ii](https://github.com/Naveeen-22/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0994-rotting-oranges](https://github.com/Naveeen-22/leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Naveeen-22/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Naveeen-22/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Naveeen-22/leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Naveeen-22/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/Naveeen-22/leetcode/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Naveeen-22/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Naveeen-22/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Hash Table
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Naveeen-22/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Naveeen-22/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Naveeen-22/leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Naveeen-22/leetcode/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Naveeen-22/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/Naveeen-22/leetcode/tree/master/2235-add-two-integers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Naveeen-22/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -577,4 +580,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Naveeen-22/leetcode/tree/master/0456-132-pattern) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Naveeen-22/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Naveeen-22/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Naveeen-22/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
