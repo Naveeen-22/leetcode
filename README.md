@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Naveeen-22/leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Naveeen-22/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Naveeen-22/leetcode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Naveeen-22/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Naveeen-22/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0403-frog-jump](https://github.com/Naveeen-22/leetcode/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/Naveeen-22/leetcode/tree/master/0414-third-maximum-number) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naveeen-22/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Naveeen-22/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Naveeen-22/leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Naveeen-22/leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Naveeen-22/leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Naveeen-22/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Naveeen-22/leetcode/tree/master/0509-fibonacci-number) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Naveeen-22/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Naveeen-22/leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Naveeen-22/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Naveeen-22/leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Naveeen-22/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Naveeen-22/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Naveeen-22/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -627,9 +630,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Naveeen-22/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Naveeen-22/leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Naveeen-22/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Naveeen-22/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
