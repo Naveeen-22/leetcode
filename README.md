@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Naveeen-22/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Naveeen-22/leetcode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Naveeen-22/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/Naveeen-22/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Naveeen-22/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/Naveeen-22/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Naveeen-22/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Naveeen-22/leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Naveeen-22/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0721-accounts-merge](https://github.com/Naveeen-22/leetcode/tree/master/0721-accounts-merge) |
+| [1143-longest-common-subsequence](https://github.com/Naveeen-22/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -649,4 +651,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Naveeen-22/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Naveeen-22/leetcode/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Naveeen-22/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
