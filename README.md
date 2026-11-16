@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Naveeen-22/leetcode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Naveeen-22/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Naveeen-22/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Naveeen-22/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Naveeen-22/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/Naveeen-22/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Naveeen-22/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Naveeen-22/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/Naveeen-22/leetcode/tree/master/0721-accounts-merge) |
 | [1143-longest-common-subsequence](https://github.com/Naveeen-22/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Naveeen-22/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Backtracking
 |  |
 | ------- |
