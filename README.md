@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Naveeen-22/leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Naveeen-22/leetcode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/Naveeen-22/leetcode/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Naveeen-22/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Naveeen-22/leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Naveeen-22/leetcode/tree/master/0120-triangle) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Naveeen-22/leetcode/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Naveeen-22/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Naveeen-22/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Naveeen-22/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Naveeen-22/leetcode/tree/master/0127-word-ladder) |
