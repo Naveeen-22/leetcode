@@ -27,7 +27,7 @@ public:
             curr[j]= prev[j-1];
         }
         else if (p[j-1]=='*'){
-            curr[j]= prev[j] ||  curr[j-1];
+            curr[j]= prev[j] |  curr[j-1];
         }
         else curr[j] = false;
     }
