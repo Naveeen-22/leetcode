@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Naveeen-22/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Naveeen-22/leetcode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Naveeen-22/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Naveeen-22/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Naveeen-22/leetcode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/Naveeen-22/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Naveeen-22/leetcode/tree/master/0733-flood-fill) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Naveeen-22/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Naveeen-22/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Naveeen-22/leetcode/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Naveeen-22/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Naveeen-22/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Naveeen-22/leetcode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Naveeen-22/leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -679,4 +681,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Naveeen-22/leetcode/tree/master/0044-wildcard-matching) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Naveeen-22/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 <!---LeetCode Topics End-->
